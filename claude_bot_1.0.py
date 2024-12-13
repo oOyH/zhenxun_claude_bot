@@ -22,8 +22,8 @@ from zhenxun.utils.message import MessageUtils
 from zhenxun.utils.withdraw_manage import WithdrawManager
 
 # API配置
-API_URL = "https://cxm.us.kg/v1/chat/completions"
-API_KEY = "nx6DBwkj936QFE9PK2UEXNgZZbK2n_1ZHAcOe3U6Ehw"
+API_URL = "************"
+API_KEY = "************"
 
 # 并发控制
 MAX_CONCURRENT_REQUESTS = 3
